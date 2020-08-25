@@ -1,0 +1,2 @@
+request==2.13.0
+beautifulsoup4==4.5.3 # permite obtener el string de html y poderlo modificar y acceder a el
